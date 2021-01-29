@@ -29,6 +29,10 @@ awsome bookmarks
 - [url2png](https://www.url2png.com) - Capture snapshots of any website, right in your app, quickly and reliably.
 - [phishtool](https://app.phishtool.com) - Forensic grade email analysis platform, providing fast automated analysis of emails
 
+### Podcast
+
+- [Nolimitsecu](https://www.nolimitsecu.fr/) - French podcast about cyber security
+
 ## Technology Intelligence
 
 - [Inoreader](https://www.inoreader.com) - RSS Reader, cloud based.
