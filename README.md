@@ -6,7 +6,7 @@ awsome bookmarks
 - [PHP](#php)
 - [Javascript](#javascript)
 - [Cybersecurity](#cybersecurity)
-- [Technology Intelligence](#Technology Intelligence)
+- [Technology Intelligence](#Technology-Intelligence)
 
 ## PHP
 
