@@ -37,7 +37,13 @@ awsome bookmarks
 
 - [Yeswehack](https://yeswehack.com) - Global bug bounty platform
 - [Hackerone](https://hackerone.com) - Platform for hacker-powered security
-- [Intigriti](https://www.intigriti.com) - Ethical hacking and bug bounty platform
+- [Pentesterlab](https://pentesterlab.com) - Ethical hacking and bug bounty platform
+
+### Pentesting/Labs
+
+- [Tryhackme](https://tryhackme.com) - Cyber security training
+- [Hackthebox](https://www.hackthebox.eu) - Online platform allowing you to test your penetration testing skills, challenge, VM machines
+- [Intigriti](https://www.intigriti.com) - Course, exercises, certifications, bootcamp, VM machines
 
 ## Technology Intelligence
 
