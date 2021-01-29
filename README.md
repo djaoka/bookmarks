@@ -31,4 +31,4 @@ awsome bookmarks
 
 ## Technology Intelligence
 
-- [Inoreader](ttps://www.inoreader.com) - RSS Reader, cloud based.
+- [Inoreader](https://www.inoreader.com) - RSS Reader, cloud based.
