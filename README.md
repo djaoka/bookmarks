@@ -33,6 +33,12 @@ awsome bookmarks
 
 - [Nolimitsecu](https://www.nolimitsecu.fr/) - French podcast about cyber security
 
+### BugBounty
+
+- [Yeswehack](https://yeswehack.com) - Global bug bounty platform
+- [Hackerone](https://hackerone.com) - Platform for hacker-powered security
+- [Intigriti](https://www.intigriti.com) - Ethical hacking and bug bounty platform
+
 ## Technology Intelligence
 
 - [Inoreader](https://www.inoreader.com) - RSS Reader, cloud based.
