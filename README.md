@@ -13,7 +13,13 @@ awsome bookmarks
 
 ## Cybersecurity
 
+### Tools
+
 - [CyberChef](https://gchq.github.io/CyberChef) - A web app for encryption, encoding, compression and data analysis
+
+### Pentesting
+
+- [Burp Suite](https://portswigger.net/burp) - Cybersecurity tools, pentesting, proxy, intruder
 
 ### Phishing analysis
 
