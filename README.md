@@ -20,6 +20,7 @@ awsome bookmarks
 ### Pentesting
 
 - [Burp Suite](https://portswigger.net/burp) - Cybersecurity tools, pentesting, proxy, intruder
+- [OWASP ZAP](https://github.com/zaproxy/zaproxy) - Web Application security scanner, proxy server
 
 ### Phishing analysis
 
