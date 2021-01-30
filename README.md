@@ -23,6 +23,10 @@ awsome bookmarks
 - [Domaintools](https://whois.domaintools.com/) - Whois Lookup
 - [Mxtoolbox](https://mxtoolbox.com/ReverseLookup.aspx) - The Reverse Lookup, MX Lookup, DMARC, DNS Lookup, Analyse headers
 
+### Network Tools
+
+- [Nmap](https://nmap.org) - Network discovery, version detection, vulnerability detection, backdoor detection, and vulnerability exploitation to be more efficient.
+
 ### Pentesting
 
 - [Burp Suite](https://portswigger.net/burp) - Cybersecurity tools, pentesting, proxy, intruder
@@ -38,6 +42,10 @@ awsome bookmarks
 
 - [Gophish](https://getgophish.com/) - Open-source phishing framework that makes it easy to test your organization's exposure to phishing
 
+### Phishing Quizz
+
+- [Phishingquiz](https://phishingquiz.withgoogle.com/) - Quizz
+
 ### Email tools
 
 - [Temporary mail](https://temporary-mail.net/) - Temporary mailbox that accepts email. Temporary mail are also known as disposable email, fake mail, throwaway email.
@@ -46,7 +54,9 @@ awsome bookmarks
 
 - [Hybrid-analysis](https://www.hybrid-analysis.com/) - Malware analysis service for the community that detects and analyzes unknown threats
 - [Talos](https://talosintelligence.com/talos_file_reputation) - File reputation disposition search
-- [Virus total](https://www.virustotal.com/gui/n) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community
+- [Virus total](https://www.virustotal.com/gui) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community
+- [Urlhaus](https://urlhaus.abuse.ch/) - Sharing malicious URLs that are being used for malware distribution
+- [Phishtank](https://www.phishtank.com/) - Submits phishing report URLs
 
 ### Podcast
 
@@ -62,11 +72,13 @@ awsome bookmarks
 
 - [Isdecisions](https://www.isdecisions.com/user-security-awareness-game/) - User security awareness game
 
-### Pentesting/Labs
+### Pentesting / Training Labs
 
 - [Tryhackme](https://tryhackme.com) - Cyber security training
 - [Hackthebox](https://www.hackthebox.eu) - Online platform allowing you to test your penetration testing skills, challenge, VM machines
 - [Intigriti](https://www.intigriti.com) - Course, exercises, certifications, bootcamp, VM machines
+- [Pentesterlab](https://pentesterlab.com) - Course, exercises, bootcamp, VM machines
+- [Overthewire](https://overthewire.org/wargames) - Learn and practice security concepts in the form of fun-filled games
 
 ## Technology Intelligence
 
