@@ -58,6 +58,10 @@ awsome bookmarks
 - [Hackerone](https://hackerone.com) - Platform for hacker-powered security
 - [Pentesterlab](https://pentesterlab.com) - Ethical hacking and bug bounty platform
 
+### Security games
+
+- [Isdecisions](https://www.isdecisions.com/user-security-awareness-game/) - User security awareness game
+
 ### Pentesting/Labs
 
 - [Tryhackme](https://tryhackme.com) - Cyber security training
