@@ -18,6 +18,11 @@ awsome bookmarks
 
 - [CyberChef](https://gchq.github.io/CyberChef) - A web app for encryption, encoding, compression and data analysis
 
+### IP DNS
+
+- [Domaintools](https://whois.domaintools.com/) - Whois Lookup
+- [Mxtoolbox](https://mxtoolbox.com/ReverseLookup.aspx) - The Reverse Lookup, MX Lookup, DMARC, DNS Lookup, Analyse headers
+
 ### Pentesting
 
 - [Burp Suite](https://portswigger.net/burp) - Cybersecurity tools, pentesting, proxy, intruder
@@ -32,6 +37,10 @@ awsome bookmarks
 ### Phishing simulators
 
 - [Gophish](https://getgophish.com/) - Open-source phishing framework that makes it easy to test your organization's exposure to phishing
+
+### Email tools
+
+- [Temporary mail](https://temporary-mail.net/) - Temporary mailbox that accepts email. Temporary mail are also known as disposable email, fake mail, throwaway email.
 
 ### File/URLs analysis
 
