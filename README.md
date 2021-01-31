@@ -23,6 +23,10 @@ awsome bookmarks
 - [Domaintools](https://whois.domaintools.com/) - Whois Lookup
 - [Mxtoolbox](https://mxtoolbox.com/ReverseLookup.aspx) - The Reverse Lookup, MX Lookup, DMARC, DNS Lookup, Analyse headers
 
+### Vulnerability scanning
+
+- [Nuclei](https://github.com/projectdiscovery/nuclei) - Fast tool for configurable targeted vulnerability scanning based on templates offering massive extensibility and ease of use
+
 ### Network Tools
 
 - [Nmap](https://nmap.org) - Network discovery, version detection, vulnerability detection, backdoor detection, and vulnerability exploitation to be more efficient.
