@@ -84,6 +84,14 @@ awsome bookmarks
 - [Pentesterlab](https://pentesterlab.com) - Course, exercises, bootcamp, VM machines
 - [Overthewire](https://overthewire.org/wargames) - Learn and practice security concepts in the form of fun-filled games
 
+### Certifications
+
+- [Offensive Security](https://www.offensive-security.com/courses-and-certifications/) - Training and certifications : OSCP, OSWP, OSEP, OSWE, etc.
+- [SANS](https://www.sans.org/) - The most trusted source for cyber security training, certification, and research.
+- [ISC2](https://www.isc2.org/Certifications/CISSP) - The World's Premier Cybersecurity Certification : CISSP, SSCP, CSSLP
+- [Eccouncil](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh-fr/) - Cyber Security Certification programs : CEH Ethical Hacking Certif, Pen testing, application security
+- [Comptia](https://www.comptia.org/certifications/cybersecurity-analyst) - Training, certifications and career services, CySA+, CASP+, PenTest+
+
 ### Threat Intelligence
 
 - [MISP](https://www.misp-project.org/index.html) - Open Source Threat Intelligence Platform &
