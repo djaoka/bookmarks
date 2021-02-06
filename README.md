@@ -96,6 +96,7 @@ awsome bookmarks
 
 - [MISP](https://www.misp-project.org/index.html) - Open Source Threat Intelligence Platform &
 Open Standards For Threat Information Sharing
+- [CVE](https://www.cvedetails.com/) - CVE Details, security vulnerability database
 
 ### Blue Team Security
 
