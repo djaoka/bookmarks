@@ -98,6 +98,8 @@ awsome bookmarks
 Open Standards For Threat Information Sharing
 - [CVE](https://www.cvedetails.com/) - CVE Details, security vulnerability database
 - [Awesome threat intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of awesome Threat Intelligence resources
+- [MITRE ATT&CK](https://attack.mitre.org/) - a globally-accessible knowledge base of adversary tactics and techniques based on real-world observation
+- [FireEye](https://www.fireeye.com/) - publicly traded cybersecurity company, ressources, blogs, articles, and plus
 
 ### Blue Team Security
 
