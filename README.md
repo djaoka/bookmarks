@@ -101,6 +101,10 @@ Open Standards For Threat Information Sharing
 - [MITRE ATT&CK](https://attack.mitre.org/) - a globally-accessible knowledge base of adversary tactics and techniques based on real-world observation
 - [FireEye](https://www.fireeye.com/) - publicly traded cybersecurity company, ressources, blogs, articles, and plus
 
+### Digital Forensics
+
+- [CyberChef](https://gchq.github.io/CyberChef) - A web app for encryption, encoding, compression and data analysis
+
 ### Blue Team Security
 
 - [SANS Blue Team Wiki](https://wiki.sans.blue/#!index.md) - Wiki about Security blue team
