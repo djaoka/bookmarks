@@ -104,6 +104,7 @@ Open Standards For Threat Information Sharing
 ### Digital Forensics
 
 - [CyberChef](https://gchq.github.io/CyberChef) - A web app for encryption, encoding, compression and data analysis
+- [KAPE](https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape) - KAPE: the Kroll Artifact Parser and Extracto
 
 ### Blue Team Security
 
