@@ -107,6 +107,7 @@ Open Standards For Threat Information Sharing
 - [KAPE](https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape) - the Kroll Artifact Parser and Extracto
 - [FTK imager](https://accessdata.com/products-services/forensic-toolkit-ftk/ftkimagere) - Data preview, imaging tool, forensic tool, forensic images, original evidence
 - [Eric Zimmerman Tools](https://ericzimmerman.github.io/#!index.md) - Eric Zimmerman's Tools
+- [StegCracker](https://github.com/Paradoxis/StegCracker) - Steganography brute-force utility to uncover hidden data inside files
 
 ### Blue Team Security
 
