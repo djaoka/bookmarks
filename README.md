@@ -108,6 +108,7 @@ Open Standards For Threat Information Sharing
 - [FTK imager](https://accessdata.com/products-services/forensic-toolkit-ftk/ftkimagere) - Data preview, imaging tool, forensic tool, forensic images, original evidence
 - [Eric Zimmerman Tools](https://ericzimmerman.github.io/#!index.md) - Eric Zimmerman's Tools
 - [StegCracker](https://github.com/Paradoxis/StegCracker) - Steganography brute-force utility to uncover hidden data inside files
+- [Autopsy](https://www.autopsy.com/download/) - analyzing disk images to collect digital evidence
 
 ### Blue Team Security
 
