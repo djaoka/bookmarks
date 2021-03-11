@@ -110,6 +110,14 @@ Open Standards For Threat Information Sharing
 - [StegCracker](https://github.com/Paradoxis/StegCracker) - Steganography brute-force utility to uncover hidden data inside files
 - [Autopsy](https://www.autopsy.com/download/) - analyzing disk images to collect digital evidence
 
+### SIEM
+
+- [Graylog](https://www.graylog.org/) - Seamless log data collection, faster analysis, and the answers you need when you need them.
+- [ArcSight ](https://www.microfocus.com/en-us/products/siem-security-information-event-management/overview) - Experience powerful, efficient threat detection and response through security analytics from a next-gen SIEM.
+- [Qradar](https://www.ibm.com/uk-en/security/security-intelligence/qradar) - Security Intelligence gives you insight into the most critical threats to your database security to successfully combat any security risk
+- [Logrhytm](https://logrhythm.com/) - Be ready for whatever threats may come. Learn how the LogRhythm NextGen SIEM helps you protect your organization and make the world a little bit safer.
+- [Splunk](https://www.splunk.com/en_us/platform.html) - A scalable and reliable data platform for investigating, monitoring, analyzing and acting on your data
+
 ### Blue Team Security
 
 - [SANS Blue Team Wiki](https://wiki.sans.blue/#!index.md) - Wiki about Security blue team
