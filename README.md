@@ -118,6 +118,7 @@ Open Standards For Threat Information Sharing
 - [Logrhytm](https://logrhythm.com/) - Be ready for whatever threats may come. Learn how the LogRhythm NextGen SIEM helps you protect your organization and make the world a little bit safer.
 - [Splunk](https://www.splunk.com/en_us/platform.html) - A scalable and reliable data platform for investigating, monitoring, analyzing and acting on your data
 - [Elastic Security](https://www.elastic.co/security) - Core security features are included with the free default distribution of Elasticsearch
+- [Sigma](https://github.com/SigmaHQ/sigma) - Generic Signature Format for SIEM Systems
 
 ### Blue Team Security
 
