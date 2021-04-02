@@ -120,6 +120,13 @@ Open Standards For Threat Information Sharing
 - [Elastic Security](https://www.elastic.co/security) - Core security features are included with the free default distribution of Elasticsearch
 - [Sigma](https://github.com/SigmaHQ/sigma) - Generic Signature Format for SIEM Systems
 
+### NIDS Network Intrusion Detection System
+
+- [Snort](https://www.snort.org//) - The world’s leading intrusion detection system.
+- [Suricata](https://suricata-ids.org/) - Suricata is a free and open source, mature, fast and robust network threat detection engine
+- [Zeek](https://zeek.org/) - An Open Source Network Security Monitoring Tool, Zeek (formerly Bro) is the world’s leading platform for network security monitoring.
+Flexible, open source, and powered by defenders.
+
 ### Blue Team Security
 
 - [SANS Blue Team Wiki](https://wiki.sans.blue/#!index.md) - Wiki about Security blue team
