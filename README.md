@@ -14,6 +14,10 @@ awsome bookmarks
 
 ## Cybersecurity
 
+### Payloads
+
+- [XSS payload](http://www.xss-payloads.com) - XSS payloads, The wonderland of JavaScript unexpected usages, and more
+
 ### Tools
 
 - [CyberChef](https://gchq.github.io/CyberChef) - A web app for encryption, encoding, compression and data analysis
