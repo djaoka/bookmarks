@@ -45,6 +45,7 @@ awsome bookmarks
 - [Wannabrowser](https://www.wannabrowser.net) - Simulate any Browser
 - [url2png](https://www.url2png.com) - Capture snapshots of any website, right in your app, quickly and reliably.
 - [phishtool](https://app.phishtool.com) - Forensic grade email analysis platform, providing fast automated analysis of emails
+- [any.run](https://app.any.run/) - Run website browsing or application testing in safe virtual machine online.
 
 ### Phishing simulators
 
