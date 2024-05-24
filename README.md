@@ -7,6 +7,7 @@ awsome bookmarks
 - [Javascript](#javascript)
 - [Cybersecurity](#cybersecurity)
 - [Technology Intelligence](#Technology-Intelligence)
+- [GRC](#GRC)
 
 ## PHP
 
@@ -139,3 +140,12 @@ Flexible, open source, and powered by defenders.
 ## Technology Intelligence
 
 - [Inoreader](https://www.inoreader.com) - RSS Reader, cloud based.
+
+
+# GRC
+
+- [Eramba](https://www.eramba.org/) - A community driven GRC solution that doesn't break the bank
+- [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) - CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +41 frameworks worldwide
+- [GRC Templates](https://www.eramba.org/grc-templates?type=security-services) - GRC library is public to the GRC community and published under Creative Commons license v4.0
+- [Auditscripts](https://www.auditscripts.com/) - Empower information systems auditors with the tools and skills necessary to perform useful audits for organizations
+- [Free Standards Download](https://www.freestandardsdownload.com/) - Free Standards Download
